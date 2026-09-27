@@ -121,3 +121,7 @@ harness が `FAIL: index.html がありません` を出して発覚。コミッ
 - BGM再実測: プレイ中 `Kina_Takes_the_Lead.m4a` vol=0.34 ／ ミュート往復で `tg.266.mute` が `1`→`0` ／
   ゲームオーバーで `Queen_of_the_Living_Room.m4a` へ切替（`overT=1.45`）／ pageerror・console error **0件**
 - 描画: いぬ2.6倍3ポーズ（耳と尻尾の振れ）・ねこ2.6倍との並び・実寸0.9倍3体 を実レンダリングで目視確認
+
+## 2026-09-27 公開更新
+
+- GitHub Pages を再pushした。操作改修はなし。
